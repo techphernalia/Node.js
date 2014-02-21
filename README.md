@@ -14,6 +14,6 @@ node Example01.js
 
 Table of Content
 scripts
-FileName|Description
-:-------|:----------
-Example01|Simple console statement
+| FileName  | Description              |
+| --------- | ------------------------ |
+| Example01 | Simple console statement |
