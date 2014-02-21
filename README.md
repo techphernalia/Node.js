@@ -18,7 +18,10 @@ scripts
 
 | FileName  | Description              |
 | --------- | ------------------------ |
-| Example01 | Simple console statement |
+| Example01 | Simple console Hello World |
+| Example02 | Print filename and dirname |
+| Example03 | setTimeout |
+| Example04 | setInterval |
 
 
 > More coming soon
